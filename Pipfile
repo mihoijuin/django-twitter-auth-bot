@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+social-auth-app-django = "*"
+django = "==2.0.8"
+tweepy = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
