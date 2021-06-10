@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 social-auth-app-django = "*"
-django = "==2.0.8"
+django = "==2.2.24"
 tweepy = "*"
 
 [dev-packages]
